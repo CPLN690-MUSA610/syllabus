@@ -5,7 +5,7 @@
 * **Instructors:**
    * Jeff Frankl, [jefffrankl@gmail.com](mailto:jefffrankl@gmail.com)
    * Nathan Zimmerman, [npzimmerman@gmail.com](mailto:npzimmerman@gmail.com)
-* **Teaching Assistant:** Lauren Parker, [parkerla@design.upenn.edu](mailto:parkerla@design.upenn.edu)
+* **Teaching Assistant:** Lauren Parker, [parkerla@design.upenn.edu](mailto:parkerla@design.upenn.edu), TA Office Hours: Thurs 1-3pm, Duhring 039
 * **Need help?**
    * [![Gitter](https://badges.gitter.im/CPLN690-MUSA610/syllabus.svg)](https://gitter.im/CPLN690-MUSA610/syllabus?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
         * It sends message digests to people who aren't active in the room, so feel free to ask a question even if no one's around.
